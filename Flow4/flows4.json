@@ -1,0 +1,65 @@
+[
+    {
+        "id": "b7c53a67518ef4e8",
+        "type": "ui_chart",
+        "z": "2f783cc22b0743dd",
+        "name": "",
+        "group": "87cb98016df00c16",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "label": "Temperatura de los estudiantes G9",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "45",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#edd400",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 860,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "87cb98016df00c16",
+        "type": "ui_group",
+        "name": "Grupo Grafica",
+        "tab": "b601ce494a904da8",
+        "order": 2,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b601ce494a904da8",
+        "type": "ui_tab",
+        "name": "Flow4",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]

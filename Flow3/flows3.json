@@ -1,0 +1,49 @@
+[
+    {
+        "id": "8db14eba5506747c",
+        "type": "ui_gauge",
+        "z": "9f46dea567ee8a74",
+        "name": "",
+        "group": "35c9bc22b29dea5e",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "{{msg.topic}}",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": 10,
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 530,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "35c9bc22b29dea5e",
+        "type": "ui_group",
+        "name": "Graficos - grupo 2",
+        "tab": "dc5c5299bacf968e",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "dc5c5299bacf968e",
+        "type": "ui_tab",
+        "name": "Flow3 G9 - tab",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    }
+]
