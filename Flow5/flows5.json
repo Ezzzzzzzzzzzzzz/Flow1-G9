@@ -1,0 +1,66 @@
+[
+    {
+        "id": "811d76776ad47a69",
+        "type": "ui_chart",
+        "z": "f04b55fd8b31d7f3",
+        "name": "",
+        "group": "23e233393ff5a984",
+        "order": 3,
+        "width": 15,
+        "height": 5,
+        "label": "UV",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "1",
+        "ymax": "15",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 850,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "23e233393ff5a984",
+        "type": "ui_group",
+        "name": "General",
+        "tab": "17dcf33741d41f5a",
+        "order": 2,
+        "disp": true,
+        "width": 30,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "17dcf33741d41f5a",
+        "type": "ui_tab",
+        "name": "Flow 5",
+        "icon": "dashboard",
+        "order": 6,
+        "disabled": false,
+        "hidden": false
+    }
+]
