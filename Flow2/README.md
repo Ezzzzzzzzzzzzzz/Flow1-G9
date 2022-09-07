@@ -55,6 +55,6 @@ A continuación puede verse una vista previa del resultado de este flow.
 # Créditos
 
 Desarrollado por Esaú Rojas
-> [Ezzz](https://ezzzzzzzzzzzzzz.github.io)
-> [Página en Facebook]()
-> [GitHub]()
+- [Ezzz](https://ezzzzzzzzzzzzzz.github.io)
+- [Página en Facebook]()
+- [GitHub]()
